@@ -7,4 +7,4 @@ export default axios.create({
     maxResults: 5,
     key: API_KEY
   }
-})
+}); 
